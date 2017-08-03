@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../custom-shirt_2/.idea/custom-shirt.iml" filepath="$PROJECT_DIR$/../custom-shirt_2/.idea/custom-shirt.iml" />
+      <module fileurl="file://C:\wamp64\www\custom-shirt-2\.idea\custom-shirt.iml" filepath="C:\wamp64\www\custom-shirt-2\.idea\custom-shirt.iml" />
+      <module fileurl="file://C:\wamp64\www\custom-shirt\.idea\custom-shirt.iml" filepath="C:\wamp64\www\custom-shirt\.idea\custom-shirt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/silex-blog.iml" filepath="$PROJECT_DIR$/.idea/silex-blog.iml" />
+    </modules>
+  </component>
+</project>
